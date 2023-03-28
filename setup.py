@@ -13,9 +13,9 @@ with open(path.join(this_directory, "README.md"), encoding="utf-8") as f:
 
 
 setup(
-    name="lab",
+    name="dungeon",
     version="0.0.1",
-    description="Example repository for INM 702",
+    description="Repository for INM 707 - lab 06",
     author="Michael Garcia Ortiz",
     author_email="michael.garcia-ortiz@city.ac.uk",
     packages=find_packages(where="src"),

@@ -1,2 +1,5 @@
-# INM707-lab06
-Feedback for lab 06
+# INM707
+
+Feedback for lab 06:
+- dungeon module
+- lab notebook

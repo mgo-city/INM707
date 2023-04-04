@@ -11,6 +11,7 @@
 - implement DQN
 
 [Lab08 - Colab](https://colab.research.google.com/drive/1_D2AJNoEo9dHkCeSSwgfCTZZn_fC23M6?usp=sharing)
+
 [Lab08 feedback - Colab](https://colab.research.google.com/drive/1e19h2UI91bGWC1omTO5zLBhlilL7si84?usp=sharing)
 
 ## Lab 09:

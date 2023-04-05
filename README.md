@@ -20,5 +20,5 @@
   - Implement a parameterized policy network (or multiple policy networks)
   - Initialize your policy network with random parameters
   - Make small perturbations of your parameters, evaluate in your environment, and update your policy if it is better.
-  - To make is better, you can use annealing, or different concurrent policy networks
+  - To make it better, you can use annealing, or different concurrent policy networks
 - Implement hyperparameter search with Ray Tune and RLLib.

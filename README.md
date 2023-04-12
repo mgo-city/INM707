@@ -22,3 +22,5 @@
   - Make small perturbations of your parameters, evaluate in your environment, and update your policy if it is better.
   - To make it better, you can use annealing, or different concurrent policy networks
 - Implement hyperparameter search with Ray Tune and RLLib.
+
+[Lab 09 feedback - Colab](https://colab.research.google.com/drive/19BjbWxYsY1Ky5V6d3-XC5799hf-9YasJ?usp=sharing)
